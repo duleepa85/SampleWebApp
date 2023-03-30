@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CatalogDBConnectionString": "Data Source=UNICORNDKAL\\SQLEXPRESS;Initial Catalog=SampleCatalogDB;User ID=sa;Password=sa123;"
+  }
+}

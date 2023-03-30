@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sample.Auth\Sample.Auth.csproj" />
+    <ProjectReference Include="..\Sample.EmployeeService.Core\Sample.EmployeeService.Core.csproj" />
+    <ProjectReference Include="..\Sample.EmployeeService.Data\Sample.EmployeeService.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\Samples\SampleAPI\Sample.DataAccess\bin\Debug\net6.0\Sample.DataAccess.deps.json
+D:\Samples\SampleAPI\Sample.DataAccess\bin\Debug\net6.0\Sample.DataAccess.dll
+D:\Samples\SampleAPI\Sample.DataAccess\bin\Debug\net6.0\Sample.DataAccess.pdb
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.csproj.AssemblyReference.cache
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.AssemblyInfoInputs.cache
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.AssemblyInfo.cs
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.csproj.CoreCompileInputs.cache
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.dll
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\refint\Sample.DataAccess.dll
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.pdb
+D:\Samples\SampleAPI\Sample.DataAccess\obj\Debug\net6.0\ref\Sample.DataAccess.dll

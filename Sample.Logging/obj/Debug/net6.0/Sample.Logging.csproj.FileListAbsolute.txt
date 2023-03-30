@@ -1,0 +1,12 @@
+D:\Samples\SampleAPI\Sample.Logging\bin\Debug\net6.0\Sample.Logging.deps.json
+D:\Samples\SampleAPI\Sample.Logging\bin\Debug\net6.0\Sample.Logging.dll
+D:\Samples\SampleAPI\Sample.Logging\bin\Debug\net6.0\Sample.Logging.pdb
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\Sample.Logging.csproj.AssemblyReference.cache
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\Sample.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\Sample.Logging.AssemblyInfoInputs.cache
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\Sample.Logging.AssemblyInfo.cs
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\Sample.Logging.csproj.CoreCompileInputs.cache
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\Sample.Logging.dll
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\refint\Sample.Logging.dll
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\Sample.Logging.pdb
+D:\Samples\SampleAPI\Sample.Logging\obj\Debug\net6.0\ref\Sample.Logging.dll

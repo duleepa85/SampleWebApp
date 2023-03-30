@@ -1,0 +1,15 @@
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.csproj.AssemblyReference.cache
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.AssemblyInfoInputs.cache
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.AssemblyInfo.cs
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.csproj.CoreCompileInputs.cache
+D:\Samples\SampleAPI\Sample.Auth\bin\Debug\net6.0\Sample.Auth.deps.json
+D:\Samples\SampleAPI\Sample.Auth\bin\Debug\net6.0\Sample.Auth.dll
+D:\Samples\SampleAPI\Sample.Auth\bin\Debug\net6.0\Sample.Auth.pdb
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.dll
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\refint\Sample.Auth.dll
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.pdb
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\ref\Sample.Auth.dll
+D:\Samples\SampleAPI\Sample.Auth\bin\Debug\net6.0\Sample.DataAccess.dll
+D:\Samples\SampleAPI\Sample.Auth\bin\Debug\net6.0\Sample.DataAccess.pdb
+D:\Samples\SampleAPI\Sample.Auth\obj\Debug\net6.0\Sample.Auth.csproj.CopyComplete

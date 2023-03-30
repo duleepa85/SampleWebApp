@@ -1,0 +1,12 @@
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\bin\Debug\net6.0\Sample.EmployeeService.Core.deps.json
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\bin\Debug\net6.0\Sample.EmployeeService.Core.dll
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\bin\Debug\net6.0\Sample.EmployeeService.Core.pdb
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\Sample.EmployeeService.Core.csproj.AssemblyReference.cache
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\Sample.EmployeeService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\Sample.EmployeeService.Core.AssemblyInfoInputs.cache
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\Sample.EmployeeService.Core.AssemblyInfo.cs
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\Sample.EmployeeService.Core.csproj.CoreCompileInputs.cache
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\Sample.EmployeeService.Core.dll
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\refint\Sample.EmployeeService.Core.dll
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\Sample.EmployeeService.Core.pdb
+D:\Samples\SampleAPI\Sample.EmployeeService.Core\obj\Debug\net6.0\ref\Sample.EmployeeService.Core.dll
